@@ -46,27 +46,27 @@ The dataset contains information about loan applications including:
 ![Chart](outputs/Screenshot 2026-03-20 235347.png)
 Certain states contribute significantly higher total loan amounts.
 
-## Loan Amount Trends
+### Loan Amount Trends
 
 ![Chart](outputs/Screenshot 2026-03-20 235429.png)
 Loan amounts vary across different borrower categories.
 
-## Top Performing Segments
+### Top Performing Segments
 
 ![Chart](outputs/Screenshot 2026-03-20 235509.png)
 A small group of segments contributes major share of loans.
 
-## Distribution Analysis
+### Distribution Analysis
 
 ![Chart](outputs/Screenshot 2026-03-20 235604.png)
 Most loans fall within a specific value range.
 
-## Key Observation
+### Key Observation
 
 ![Chart](outputs/Screenshot 2026-03-20 235711.png)
 Identified patterns that can help in risk assessment and decision-making.
 
-## How to Run
+### How to Run
 
 1. Install dependencies:
    pip install pandas matplotlib seaborn
@@ -74,6 +74,6 @@ Identified patterns that can help in risk assessment and decision-making.
 2. Run the notebook:
    Open `financial_analysis.ipynb`
 
-## Conclusion
+### Conclusion
 
 This project demonstrates how data analysis can be used to extract meaningful insights from financial datasets and support business decisions.
